@@ -19,10 +19,10 @@ Faz parte de um projeto maior, mas foi isolado aqui para fins de estudo e portf�
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/seu-usuario/nextjs-auth-module-clerk.git
+git clone https://github.com/CristianAndriel/Project_Auth_Module_Clerk.git
 
 # Entrar na pasta
-cd nextjs-auth-module-clerk
+cd project_authentication
 
 # Instalar dependências
 npm install
